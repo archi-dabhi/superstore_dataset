@@ -1,0 +1,9 @@
+📌 Key Insights – Superstore Sales Dashboard
+
+1. West region achieved the highest sales – over 520K, outperforming all other regions.
+
+2. Technology category leads in sales contribution, representing 41.1% of total revenue.
+
+3. Sales trend shows a consistent decline starting late 2020, indicating a possible market shift or seasonal slowdown.
+
+4. South region lags behind in sales performance, suggesting potential for targeted growth strategies.
